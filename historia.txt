@@ -1,4 +1,5 @@
 Esta es la historia de Alejandro Osorio
+
 Tiene 30 años y esta aprendiendo desarrollo web full stack
-en Platzieste es mi primer commit del archivo
-este es mi primer commit del archivo
+
+en Platzi vivo en Bogota Colombia
